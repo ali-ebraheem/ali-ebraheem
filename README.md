@@ -46,7 +46,7 @@
 
 
 <p>
-    <a href="https://github.com/ali-ebraheem"><img src="https://github-readme-stats.vercel.app/api?username=ali-ebraheem&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&icon_color=686868&title_color=57c7ff&text_color=ffffff&custom_title=My+Github+Stats" alt="ali-ebraheem :: Profile Stats" /></a>
+    <a href="https://github.com/ali-ebraheem"><img src="https://github-readme-stats.vercel.app/api?username=ali-ebraheem&bg_color=0d1117&icon_color=686868&title_color=57c7ff&text_color=ffffff&custom_title=My+Github+Stats" alt="ali-ebraheem :: Profile Stats" /></a>
 </p>
 
 <br>
