@@ -25,7 +25,14 @@
       <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img
       src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter"
       width="40" height="40" /> </a>
+      <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="ruby"
+      width="40" height="40" /> </a>
+       <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" alt="rails"
+      width="40" height="40" /> </a>
       </p>
+
 
 <br>
 
