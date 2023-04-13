@@ -8,13 +8,13 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+<p align="left">  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg"
       alt="cplusplus" width="40" height="40" /> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+      height="40" /> </a> <a href="https://laravel.com/" target="_blank"
     rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://laravel.com/img/logomark.min.svg"
       alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
