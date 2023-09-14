@@ -1,5 +1,5 @@
 <h1 align="center">Ali Ibraheem</h1>
-<h3 align="center">Mobile Application Developer </h3>
+<h3 align="center">Software Developer </h3>
 
 
 
@@ -15,21 +15,13 @@
       height="40" /> </a> <a href="https://laravel.com/" target="_blank"
     rel="noreferrer"> <img
       src="https://laravel.com/img/logomark.min.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      alt="javascript" width="40" height="40" /> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a>
       <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img
       src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter"
-      width="40" height="40" /> </a>
-      <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="ruby"
-      width="40" height="40" /> </a>
-       <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" alt="rails"
       width="40" height="40" /> </a>
       </p>
 
