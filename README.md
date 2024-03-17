@@ -20,7 +20,7 @@
       alt="javascript" width="40" height="40" /> </a>  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
       src="https://www.postgresql.org/media/img/about/press/elephant.png"
       alt="postgresql" width="40" height="40" /> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img
-      src="https://miro.medium.com/v2/resize:fit:1400/1*_NVBTVdmjt3Qvq3CZOySXg.png" alt="c#" width="40"
+      src="https://www.step2gen.com/WebsiteAssets/assets/images/c--4.svg" alt="c#" width="40"
       height="40" /> </a>  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img
       src="https://learn.microsoft.com/en-us/dotnet/media/dotnet-logo.png" alt="dotnet"
       width="40" height="40" /> </a>
