@@ -8,7 +8,11 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+<p align="left"> 
+     <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter"
+      width="40" height="40" /> </a>
+    <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://dart.dev/assets/img/logo/logo-white-text.svg"
       alt="cplusplus" width="40" height="40" /> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
@@ -20,9 +24,7 @@
       alt="postgresql" width="40" height="40" /> </a> </a>  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img
       src="https://learn.microsoft.com/en-us/dotnet/media/dotnet-logo.png" alt="dotnet"
       width="40" height="40" /> </a>
-      <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter"
-      width="40" height="40" /> </a>
+     
       </p>
 
 
