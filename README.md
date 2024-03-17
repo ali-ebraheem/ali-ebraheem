@@ -24,7 +24,6 @@
       alt="postgresql" width="40" height="40" /> </a> </a>  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img
       src="https://learn.microsoft.com/en-us/dotnet/media/dotnet-logo.png" alt="dotnet"
       width="40" height="40" /> </a>
-     
       </p>
 
 
