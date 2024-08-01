@@ -7,7 +7,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Stack:</h3>
 <p align="left"> 
      <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img
       src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter"
