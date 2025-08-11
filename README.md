@@ -13,7 +13,7 @@
       src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter"
       width="40" height="40" /> </a>
     <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/dart-icon-2042x2048-775u9j9x.png"
+    <img src="https://dart.dev/assets/img/logo/logo-white-text.svg"
       alt="cplusplus" width="40" height="40" /> </a>   <a href="https://laravel.com/" target="_blank"
     rel="noreferrer"> <img
       src="https://laravel.com/img/logomark.min.svg"
